@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TE/8N6VWSP8JDNOSQ1GD4J2DZ.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Farrah/akai_e_espiritu.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Farrah/akai_diffuse.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Farrah/akai_e_espiritu_PhysicsAsset.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Farrah/Akai_MAT.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Farrah/Farrah_Skeleton.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Farrah/Animation/ABP_Farrah.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Farrah/Animation/Idle_Farrah.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Farrah/Animation/Jump_Farrah.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Farrah/Animation/Run_Farrah.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Farrah/Animation/Idle_Run.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Farrah/Animation/BP_Farrah_Char.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Farrah/Animation/Walking_Farrah.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/WZ/4GHDLOJQJSYUR6GFJQ2910.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XS/BRYBFGEUWS45OWWOM4OPEZ.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/flyby.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/akai_diffuse.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/akai_e_espiritu.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/akai_e_espiritu_PhysicsAsset.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/akai_e_espiritu_Skeleton.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Akai_MAT.uasset",
+				"D:/OneDrive/Documents/Unreal Projects/HW2/Content/My_Characters/Farrah/akai_e_espiritu_Skeleton.uasset"
+			]
+		}
+	]
+}
